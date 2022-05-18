@@ -1,1 +1,2 @@
 Hi there! I'm so thrilled to learn about Git!
+Not sure how this works yet, but I'm learning!
